@@ -31,3 +31,5 @@ Created KPI Cards.
 Added slicers and filters for interactive analysis.
 Designed a clean and interactive Power BI dashboard for easy understanding and decision-making.
 6. Project File
+<img width="610" height="374" alt="image" src="https://github.com/user-attachments/assets/db0939ea-df14-493f-890d-b7e580beb20b" />
+
