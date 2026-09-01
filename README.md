@@ -19,10 +19,13 @@ Average income
 Total income
 
 4.Dataset:
+
 This project uses business intelligence tool for analyzing and banking data.
 Approximately 10000+ records
 1544 columns
-5. Project Workflow
+
+5. Project Workflow:
+   
 Project Workflow
 Cleaned and transformed the data using Power Query
 Created the required data model and relationships.
@@ -30,4 +33,5 @@ Created a Date Table when required.
 Created KPI Cards.
 Added slicers and filters for interactive analysis.
 Designed a clean and interactive Power BI dashboard for easy understanding and decision-making.
-6. Project File
+7. Project File
+Screenshot (6).png
