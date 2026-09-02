@@ -1,7 +1,7 @@
 # PROJECT-PB
 ##TITLE 
 GLOBAL BANKING CUSTOMER ANALYTICS
-objective:-  
+## objective:-  
 My Project is to analyze banking  data and convert the raw data into meaningful business and In this project, I used Power Query for data cleaning, DAX for calculations, and different Power BI visualizations to create an interactive dashboard.
 
 ## Tools:
