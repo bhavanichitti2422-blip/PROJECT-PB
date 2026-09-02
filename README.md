@@ -41,5 +41,5 @@ Funnel Chart
 Matrix
 Slicers
 ## Project File
-<img width="610" height="374" alt="image" src="https://github.com/user-attachments/assets/db0939ea-df14-493f-890d-b7e580beb20b" />
+<img width="602" height="331" alt="image" src="https://github.com/user-attachments/assets/694b221a-20e8-484d-8541-736985b79200" />
 
